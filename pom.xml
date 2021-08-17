@@ -7,6 +7,18 @@
     <version>1.0</version>
     <name>hello</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
+    <distributionManagement>
+         <repository>
+                  <id>internal.repo</id>
+                  <name>my_repo-libs-relese-local</name>
+                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-relese-local
+         </repository>
+         <snapshotRepository>
+                  <id>internal.repo</id>
+                  <name>my_repo-libs-snapshot-local</name>
+                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-snapshot-local
+         </snapshotRepository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
