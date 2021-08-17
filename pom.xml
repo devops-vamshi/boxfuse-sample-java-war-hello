@@ -11,12 +11,12 @@
          <repository>
                   <id>internal.repo</id>
                   <name>my_repo-libs-relese-local</name>
-                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-relese-local
+                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-relese-local</url>
          </repository>
          <snapshotRepository>
                   <id>internal.repo</id>
                   <name>my_repo-libs-snapshot-local</name>
-                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-snapshot-local
+                  <url>http://23.96.125.193:8082/artifactory/my_repo-libs-snapshot-local</url>
          </snapshotRepository>
     </distributionManagement>
     <dependencies>
