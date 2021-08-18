@@ -7,13 +7,13 @@
     <version>1.0</version>
     <name>hello</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
-    <licenses>
+    <!--<licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>http://repo.jfrog.org</distribution>
         </license>
-    </licenses>     
+    </licenses>-->    
     <distributionManagement>
          <repository>
                   <id>13.90.25.118</id>
