@@ -27,7 +27,7 @@
          </snapshotRepository>
     </distributionManagement>
     <dependencies>
-           <!--<dependency>
+           <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpclient</artifactId>
                 <version>4.4</version>
@@ -52,7 +52,7 @@
                 <groupId>org.jfrog.teamcity</groupId>
                 <artifactId>teamcity-artifactory-plugin-agent</artifactId>
                <version>2.9.1</version>
-           </dependency>-->   
+           </dependency>  
            <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpclient</artifactId>
