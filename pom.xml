@@ -26,8 +26,7 @@
                   <url>http://13.90.25.118:8082/artifactory/my_repo-libs-snapshot-local</url>
          </snapshotRepository>
     </distributionManagement>
-    <dependencyManagement>
-       <dependencies>
+    <dependencies>
            <!--<dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpclient</artifactId>
@@ -60,8 +59,7 @@
                   <version>3.1.0</version>
                   <scope>provided</scope>
            </dependency>
-       </dependencies>
-    </dependencyManagement>      
+    </dependencies>      
     <build>
         <plugins>
             <plugin>
