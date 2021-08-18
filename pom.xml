@@ -91,7 +91,7 @@
             </plugin>
         </plugins>
     </build>
-    <repositories>
+    <!--<repositories>
         <repository>
             <id>JetBrains</id>
             <url>http://repository.jetbrains.com/all</url>
@@ -102,5 +102,5 @@
             <id>JetBrains</id>
             <url>http://repository.jetbrains.com/all</url>
         </pluginRepository>
-    </pluginRepositories>     
+    </pluginRepositories>-->     
 </project>
